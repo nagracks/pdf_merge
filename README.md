@@ -25,6 +25,7 @@ TODO
 `PDF Merge` is a work in progress, so any ideas and patches are appreciated.
 
 * [x] Merge two or more files together
+* [ ] Compress pdfs
 * [ ] Make it robust
 
 Contributing
