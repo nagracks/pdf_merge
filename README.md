@@ -37,5 +37,5 @@ LICENSE
 ------
 
 `PDF Merge` is licensed under 
-[GPL3](https://github.com/nagracks/pdf_merge/blob/master/LICENSE)
+[MIT](https://github.com/nagracks/pdf_merge/blob/master/LICENSE)
 
